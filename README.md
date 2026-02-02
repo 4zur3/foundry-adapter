@@ -1,6 +1,6 @@
 # foundry-adapter
 
-Adapter for Microsoft Foundry — proxies SSE chat completions to Azure OpenAI legacy deployments.
+Adapter for Microsoft Foundry — proxies SSE chat completions to Azure OpenAI legacy deployments. Compatible OpenClaw.
 
 **Not affiliated with or endorsed by Microsoft or OpenAI.**
 
